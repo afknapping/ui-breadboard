@@ -13,3 +13,5 @@
 - https://youtu.be/Xhp_3TtLFf4?si=bKI3oeBnAwGeLrF7
 - https://youtu.be/Xhp_3TtLFf4?si=bKI3oeBnAwGeLrF7
 - https://www.garethrees.co.uk/2020/03/27/designing-how-it-works-with-breadboards/
+- https://youtu.be/EuRE29BL_x8?si=WYG63A4DFYizWiaM
+- 
