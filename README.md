@@ -7,4 +7,4 @@
 - https://basecamp.com/shapeup/1.3-chapter-04#breadboarding
 - https://sep.com/blog/breadboarding-a-simple-way-to-prototype/
 - https://www.figma.com/community/file/937305346214890880/breadboarding-wireframe-kit
-- 
+- https://youtu.be/dDtJCmkaiPc?si=bFZSXHSKCVr3YAr_
