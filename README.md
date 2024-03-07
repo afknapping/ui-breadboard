@@ -5,3 +5,5 @@
 - https://web.archive.org/web/20220328061207/https://www.feltpresence.com/breadboards.html
 - https://youtube.com/shorts/qByshQ4j2Sg
 - https://basecamp.com/shapeup/1.3-chapter-04#breadboarding
+- https://sep.com/blog/breadboarding-a-simple-way-to-prototype/
+- 
