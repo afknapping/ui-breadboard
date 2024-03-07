@@ -10,4 +10,5 @@
 - https://youtu.be/dDtJCmkaiPc?si=bFZSXHSKCVr3YAr_
 - https://miro.com/miroverse/breadboard-ui-flow-diagram/
 - https://www.reddit.com/r/UXDesign/comments/10tw8as/a_breadboarding_tool_for_ux_designers/
+- https://youtu.be/Xhp_3TtLFf4?si=bKI3oeBnAwGeLrF7
 - 
