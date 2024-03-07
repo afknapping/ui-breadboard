@@ -9,4 +9,5 @@
 - https://www.figma.com/community/file/937305346214890880/breadboarding-wireframe-kit
 - https://youtu.be/dDtJCmkaiPc?si=bFZSXHSKCVr3YAr_
 - https://miro.com/miroverse/breadboard-ui-flow-diagram/
+- https://www.reddit.com/r/UXDesign/comments/10tw8as/a_breadboarding_tool_for_ux_designers/
 - 
