@@ -1,10 +1,10 @@
 # ui breadboarding
 
-- [In Praise of Breadboarding: An Essential UX Tool | by Karina Kedo | UX Collective](https://uxdesign.cc/in-praise-of-breadboarding-an-essential-ux-tool-9c9c6b35ce72)
+- [In Praise of Breadboarding: An Essential UX Tool \| by Karina Kedo | UX Collective](https://uxdesign.cc/in-praise-of-breadboarding-an-essential-ux-tool-9c9c6b35ce72)
 - [This is what a UX expert uses to specify softwares. #uxdesign #uiux #ux #ui #design #userexperience - YouTube](https://www.youtube.com/shorts/b6cDVFF_hKg)
 - [Ryan Singer: UI Breadboards](https://web.archive.org/web/20220328061207/https://www.feltpresence.com/breadboards.html)
 - [Specify Softwares Without Wireframes Using This Method. #saas #ux #design #uiux #uxdesign #ui - YouTube](https://www.youtube.com/shorts/qByshQ4j2Sg)
-- [Breadboarding | Find the Elements | Shape Up](https://basecamp.com/shapeup/1.3-chapter-04#breadboarding)
+- [Breadboarding \| Find the Elements \| Shape Up](https://basecamp.com/shapeup/1.3-chapter-04#breadboarding)
 - [Breadboarding: A Simple Way to Prototype - SEP](https://sep.com/blog/breadboarding-a-simple-way-to-prototype/)
 - [Breadboarding + Wireframe Kit | Figma Community](https://www.figma.com/community/file/937305346214890880/breadboarding-wireframe-kit)
 - [UX Design Exercises For Beginners: breadboarding - YouTube](https://www.youtube.com/watch?v=dDtJCmkaiPc)
