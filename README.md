@@ -6,7 +6,7 @@
 - [Specify Softwares Without Wireframes Using This Method. #saas #ux #design #uiux #uxdesign #ui - YouTube](https://www.youtube.com/shorts/qByshQ4j2Sg)
 - [Breadboarding \| Find the Elements \| Shape Up](https://basecamp.com/shapeup/1.3-chapter-04#breadboarding)
 - [Breadboarding: A Simple Way to Prototype - SEP](https://sep.com/blog/breadboarding-a-simple-way-to-prototype/)
-- [Breadboarding + Wireframe Kit | Figma Community](https://www.figma.com/community/file/937305346214890880/breadboarding-wireframe-kit)
+- [Breadboarding + Wireframe Kit \| Figma Community](https://www.figma.com/community/file/937305346214890880/breadboarding-wireframe-kit)
 - [UX Design Exercises For Beginners: breadboarding - YouTube](https://www.youtube.com/watch?v=dDtJCmkaiPc)
 - [Breadboard (UI Flow Diagram) Template \| Miroverse](https://miro.com/miroverse/breadboard-ui-flow-diagram/)
 - [A breadboarding tool for UX designers : r/UXDesign](https://www.reddit.com/r/UXDesign/comments/10tw8as/a_breadboarding_tool_for_ux_designers/)
